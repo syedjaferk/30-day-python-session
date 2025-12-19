@@ -1,0 +1,22 @@
+Extend the grocery bill separator
+1. Validate Commodity Name
+	If the user enters an item not in commodity_price then show, "Item not available". Ask the user to re-enter the item name.
+2. Find the grand total. 
+3. Pretty Bill Format, may be below format, 
+
+Item     Weight   Price   Amount
+---------------------------------
+Rice     2.0kg    40      80
+Egg      6        6       36
+---------------------------------
+Total Amount: 116
+
+
+4. Add 5% GST on total amount on all commodities.
+5. Convert it in to functions, 
+	display_items()
+	get_user_items()
+	calculate_bill()
+	print_bill()
+
+6. 
