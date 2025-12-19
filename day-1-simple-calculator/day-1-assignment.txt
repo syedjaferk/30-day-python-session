@@ -1,0 +1,11 @@
+Enhance the simple calculator you built in class by adding more features, validations, and better user experience.
+
+
+1. Handle Division by Zero. If user tries to divide by 0, show a friendly message:
+2. Invalid Choice Handling: If user enters an invalid menu option, show, "Please select a valid operation (1–4)"
+3. Add advanced operations (Modulus, Power, Floor Division)
+4. Use functions
+	1. add(a, b)
+	2. subtract(a, b)
+	3. multiply(a, b)
+	4. divide(a, b)
